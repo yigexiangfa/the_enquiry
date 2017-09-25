@@ -1,4 +1,5 @@
 class Quote < ApplicationRecord
+  include GoodAble
 
   belongs_to :enquiry
 
