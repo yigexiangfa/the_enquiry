@@ -3,7 +3,7 @@ require 'rails_enquiry/version'
 
 Gem::Specification.new do |s|
   s.name = 'rails_enquiry'
-  s.version = TheEnquiry::VERSION
+  s.version = RailsEnquiry::VERSION
   s.authors = ['qinmingyuan']
   s.email = ['mingyuan0715@foxmail.com']
   s.homepage = 'https://github.com/work-design/rails_enquiry'
